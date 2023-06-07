@@ -1,0 +1,7 @@
+Quando a gente pega esses problemas gigantescos e divide em etapas menores, nomeia consceitos, identifica padrões e cria um passo a passo, a gente avaça e muito
+E estes são justamente os pilares do que chamamos de pensamento computacional
+Decomposição: Dividir um problema em partes menores
+Abstração: Nomear conceitos
+Padrão: Reconhecer padrões nas informações.
+Algoritmos: Criar um passo a passo lógico para resolver o problema.
+Algoritmos: "É apenas uma sequência finita de passos que se usa para resolver um um problema, e algoritmos são muito mais amplos e muito mais antigos do que o computador[...]"
