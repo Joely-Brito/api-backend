@@ -5,3 +5,22 @@ Abstração: Nomear conceitos
 Padrão: Reconhecer padrões nas informações.
 Algoritmos: Criar um passo a passo lógico para resolver o problema.
 Algoritmos: "É apenas uma sequência finita de passos que se usa para resolver um um problema, e algoritmos são muito mais amplos e muito mais antigos do que o computador[...]"
+
+
+
+Check list do que foi desenvolvido:
+-  Sempre dividimos nosso problema em pequenos passos lógicos;
+- Padrão em todas as chamadas: verbo, request, response, endereço, uma lógica para permeitir
+receber os dados da request e enviar resposta;
+- Ao final de cada código sempre testamos;
+ - Nossa configuração de servidor é feita apenas uma vez;
+ - Toda vez que usamos um verbo precisamos permitir o app usar;
+ - Sempre precisamos rodar nosso servidor para testar;
+ - O único que permite testar no navehadoré o GET, o resto é uma ferramenta como o insomnia;
+ 
+
+ Mongo:
+ senha de login: jPTY36nx8%
+ Username: joelybrito
+Password:  ZiZNPaTYwFTy9QNe
+Link do Mongo: mongodb+srv://joelybrito:<password>@clustermulheres.ec65sx5.mongodb.net/?retryWrites=true&w=majority
